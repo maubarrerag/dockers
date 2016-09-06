@@ -1,0 +1,5 @@
+.git
+.gitignore
+.dockignore
+tmp/*
+log/*
